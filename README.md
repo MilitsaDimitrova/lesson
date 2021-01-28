@@ -1,5 +1,3 @@
-# lesson
-
 using System;
 
 namespace Password_Guess
